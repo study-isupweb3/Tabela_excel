@@ -1,0 +1,16 @@
+;;;;;;;;COORDENADORES DE TURMA;;;;
+;;;;;;;ID;Nome Professor;Telefone;Email;Especialidade;Morada
+;;;;;;;1;Batista Jose;941547380;batistajose@gmail.com;Fisica;Sumbe
+;;;;;;;2;Alfredo Joaquim;932126786;alfredojoaquim@gmail.com;Matematica;Sumbe
+;;;;;;;3;Joao Manuel;938899677;joaomanuel@gmail.com;Ensino Primario;Sumbe
+;;;;;;;4;Segunda Joao;954476783;segundajoao@gmail.com;Biologia;Porto-Amboim
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+DADOS DA TURMA;;;;;;;;;;;;
+ID;Nome;Sala;Periodo;ID_ProfessorResponsavel;;;;;;;;
+1;A;2;Noite;3;;;;;;;;
+2;B;10;Manha;2;;;;;;;;
+3;C;20;Tarde;4;;;;;;;;
+4;D;15;Noite;1;;;;;;;;
